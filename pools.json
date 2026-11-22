@@ -1,15 +1,18 @@
 {
-  "updated_utc": "20:50 UTC",
+  "updated_berlin": "22:30 Uhr",
+  "weekday": "Sonntag",
   "pools": [
     {
-      "name": "Kombibad Gropiusstadt Hallenbad Mitte",
-      "temp": "Keine Temp.",
-      "url": "https://www.berlinerbaeder.de/baeder/detail/kombibad-gropiusstadt-hallenbad/#Badausstattung/"
+      "name": "Stadtbad Mitte",
+      "temp": "Sch: 26,0°C",
+      "hours": "10:00 - 17:00 (öffentl.), 10:00 - 17:00 (öffentl.), 10:00 - 17:00 (öffentl.)",
+      "url": "https://www.berlinerbaeder.de/baeder/detail/stadtbad-mitte-james-simon/"
     },
     {
-      "name": "Schwimmhalle Landsberger Allee",
-      "temp": "Keine Temp.",
-      "url": "https://www.berlinerbaeder.de/baeder/detail/schwimm-und-sprunghalle-im-europasportpark-sse/"
+      "name": "Schwimmhalle Zingster Str.",
+      "temp": "Sch: 26,5°C, Nic: 27,1°C",
+      "hours": "10:00 - 15:00 (öffentl.)",
+      "url": "https://www.berlinerbaeder.de/baeder/detail/schwimmhalle-zingster-strasse/"
     }
   ]
 }
