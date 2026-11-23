@@ -1,5 +1,5 @@
 {
-  "updated_berlin": "08:40 Uhr",
+  "updated_berlin": "10:29 Uhr",
   "weekday": "Montag",
   "pools": [
     {
@@ -11,7 +11,7 @@
     {
       "name": "Schwimmhalle Zingster Str.",
       "temp": "Sch: 26,5°C, Nic: 27,1°C",
-      "hours": "06:30 - 08:00 (öffentl.)",
+      "hours": "06:30 - 08:00 (öffentl.), 06:30 - 22:00 (öffentl.)",
       "url": "https://www.berlinerbaeder.de/baeder/detail/schwimmhalle-zingster-strasse/"
     }
   ]
