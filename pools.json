@@ -1,17 +1,17 @@
 {
-  "updated_berlin": "23:03 Uhr",
-  "weekday": "Dienstag",
+  "updated_berlin": "00:02 Uhr",
+  "weekday": "Mittwoch",
   "pools": [
     {
       "name": "Stadtbad Mitte",
       "temp": "Sch: 26,0°C",
-      "hours": "06:30 - 08:00 (öffentl.), 06:30 - 16:00 (öffentl.), 14:00 - 21:00 (öffentl.)",
+      "hours": "06:30 - 08:00 (öffentl.), 06:30 - 22:00 (öffentl.), 14:00 - 21:00 (öffentl.)",
       "url": "https://www.berlinerbaeder.de/baeder/detail/stadtbad-mitte-james-simon/"
     },
     {
       "name": "Schwimmhalle Zingster Str.",
       "temp": "Sch: 26,5°C, Nic: 27,1°C",
-      "hours": "06:30 - 08:00 (öffentl.), 06:30 - 22:00 (öffentl.)",
+      "hours": "10:00 - 22:00 (öffentl.), 10:00 - 22:00 (öffentl.)",
       "url": "https://www.berlinerbaeder.de/baeder/detail/schwimmhalle-zingster-strasse/"
     }
   ]
