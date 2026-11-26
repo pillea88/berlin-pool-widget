@@ -1,11 +1,11 @@
 {
-  "updated_berlin": "23:00 Uhr",
-  "weekday": "Donnerstag",
+  "updated_berlin": "00:03 Uhr",
+  "weekday": "Freitag",
   "pools": [
     {
       "name": "Stadtbad Mitte",
       "temp": "Sch: 26,0°C",
-      "hours": "06:30 - 08:00 (öffentl.)",
+      "hours": "12:00 - 22:00 (öffentl.)",
       "url": "https://www.berlinerbaeder.de/baeder/detail/stadtbad-mitte-james-simon/"
     },
     {
